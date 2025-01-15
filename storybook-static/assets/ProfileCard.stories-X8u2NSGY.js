@@ -1,0 +1,8 @@
+import{P as n}from"./Tooltip-Dt7zZX-t.js";import"./jsx-runtime-CkxqCPlQ.js";import{d as i}from"./perfil-ZBpOTzO0.js";import"./index-DJO9vBfz.js";const m=""+new URL("portada-sBIG6GKv.jpg",import.meta.url).href,u={title:"Components/ProfileCard",component:n,tags:["autodocs"],argTypes:{profileImage:{control:"text",description:"Name of the "},coverImage:{control:"text",description:"Name of the "},name:{control:"text",description:"Name of the "},description:{control:"text",description:"Name of the "}},parameters:{docs:{description:{component:"The ProfileCard component displays an image or user initials with customizable size and shape."}},layout:"centered"}},e={args:{profileImage:i,coverImage:m,name:"Perfil",description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."}};var t,o,r,a,s;e.parameters={...e.parameters,docs:{...(t=e.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    profileImage: defaultAvatar,
+    coverImage: defaultFontPage,
+    name: "Perfil",
+    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  }
+}`,...(r=(o=e.parameters)==null?void 0:o.docs)==null?void 0:r.source},description:{story:"📸 Basic ProfileCard Example",...(s=(a=e.parameters)==null?void 0:a.docs)==null?void 0:s.description}}};const f=["Basic"];export{e as Basic,f as __namedExportsOrder,u as default};
